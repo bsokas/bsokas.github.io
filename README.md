@@ -1,2 +1,3 @@
 # bsokas.github.io
-For Sherri's blog, also a good time to start learning more web programming
+My Github Pages account. See Github's [Pages instructions](https://pages.github.com/)
+for more information.
